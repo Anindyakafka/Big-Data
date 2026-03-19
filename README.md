@@ -804,5 +804,3 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 
 "We can start building from here"
-
-Or here
