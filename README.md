@@ -801,3 +801,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 - Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 - Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
 - [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
+
+
+"We can start building from here"
